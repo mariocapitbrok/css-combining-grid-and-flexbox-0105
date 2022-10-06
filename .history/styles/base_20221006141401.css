@@ -15,7 +15,6 @@ body {
 
 header {
     background-color: #CCC;
-    font-size: 3em;
 }
 
 footer {
@@ -25,12 +24,11 @@ footer {
 main {
     display: flex;
     flex-direction: column;
-    flex:1
+    flex: 1
 }
 
 article.main {
     background-color: #00C0F2;
-    flex:1;
 }
 
 aside {

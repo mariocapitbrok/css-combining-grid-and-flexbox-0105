@@ -25,12 +25,14 @@ footer {
 main {
     display: flex;
     flex-direction: column;
-    flex:1
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
 }
 
 article.main {
     background-color: #00C0F2;
-    flex:1;
+    flex-grow: 1;
 }
 
 aside {
