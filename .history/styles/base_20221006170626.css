@@ -45,7 +45,7 @@ aside {
     }
 
     aside {
-        flex: 0 0 20%;
+        flex: 10% 0 20%;
     }
 
     .sidebar1 {
